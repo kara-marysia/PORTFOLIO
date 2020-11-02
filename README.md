@@ -20,7 +20,7 @@ My name is Karolina Koźlak. I am master of management in public and non-governm
 - [Functional requirements](https://drive.google.com/drive/folders/1FIQQoI2b8YXkaUdo4ZbP7EExTzk5SVMv?usp=sharing)
 
 
-### Blogs that I find insightful
+### Blogs that I read
 - [Guru99](https://www.guru99.com/)
 - [testelka](https://testelka.pl/)
 - [testerzy.pl](https://testerzy.pl/)
