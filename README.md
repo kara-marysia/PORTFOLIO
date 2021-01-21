@@ -14,7 +14,7 @@ My name is Karolina Koźlak. I am master of management in public and non-governm
 ## My testing documentation
 - [Bug reports](https://drive.google.com/drive/folders/1wRoclJg7RC2wLm2VMmxhSbwQqv6VSW7k?usp=sharing)
 - [Test cases](https://drive.google.com/drive/folders/14lfDD6PZ0S52nuyyrWYHppo9XNjEItnC?usp=sharing)
-- [Test scenarios](https://drive.google.com/drive/folders/1BafCiPBcP2pkNlKMxpJngcjFatPaDpmT?usp=sharing)
+- [Test scenarios](https://drive.google.com/drive/folders/1fXYddsSQri4CH5GjAiu5-dRA2etI9C4t?usp=sharing)
 - [User stories](https://drive.google.com/drive/folders/1Gn-eQJQdXbtK2g4hkcsGsw2guoFHizuX?usp=sharing)
 - [Exploratory sessions](https://drive.google.com/drive/folders/1BafCiPBcP2pkNlKMxpJngcjFatPaDpmT?usp=sharing)
 - [Functional requirements](https://drive.google.com/drive/folders/1FIQQoI2b8YXkaUdo4ZbP7EExTzk5SVMv?usp=sharing)
