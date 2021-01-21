@@ -1,5 +1,5 @@
 ## About me
-My name is Karolina Koźlak. I am master of management in public and non-governmental sector who decided to change a career path. I am freshly graduated Software Tester, looking for an opportunity to gain testing experience in the IT world. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Karolina Koźlak. I am master of management in public and non-governmental sector who decided to change a career path. I am freshly graduated Software Tester, gaining first experiences in testing world. My goal is to develop testing knowlage and technical skills. On this site I would like to share my experience from personal studies and researches.
 
 
 ## Tools
@@ -18,6 +18,10 @@ My name is Karolina Koźlak. I am master of management in public and non-governm
 - [User stories](https://drive.google.com/drive/folders/1Gn-eQJQdXbtK2g4hkcsGsw2guoFHizuX?usp=sharing)
 - [Exploratory sessions](https://drive.google.com/drive/folders/1BafCiPBcP2pkNlKMxpJngcjFatPaDpmT?usp=sharing)
 - [Functional requirements](https://drive.google.com/drive/folders/1FIQQoI2b8YXkaUdo4ZbP7EExTzk5SVMv?usp=sharing)
+
+
+## Certificates
+- ISTQB Foundation Level
 
 
 ### Blogs that I read
