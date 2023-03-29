@@ -26,3 +26,7 @@ On this site I would like to share my experience from personal studies and resea
 
 ## Certificates
 - ISTQB Foundation Level
+
+## Courses
+- **UX/UI - Introduction to designing process** by Software Development Academy
+- **Figma: Getting started** by Pluralsight
