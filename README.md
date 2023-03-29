@@ -5,12 +5,10 @@ On this site I would like to share my experience from personal studies and resea
 
 
 ## Tools
-- Test management: ***JIRA, Confluence, TestRail***
-- Coding: ***Java***
+- Test management: ***Azure DevOps, JIRA, Confluence, TestRail***
 - Databases: ***MySQL***
-- Operating systems: ***Windows, Android***
+- Operating systems: ***Windows***
 - Version control: ***GIT***
-- Automatic testing: ***Selenium WebDriver***
 
 
 ## My testing documentation
@@ -20,13 +18,10 @@ On this site I would like to share my experience from personal studies and resea
 - [User stories](https://drive.google.com/drive/folders/1Gn-eQJQdXbtK2g4hkcsGsw2guoFHizuX?usp=sharing)
 - [Exploratory sessions](https://drive.google.com/drive/folders/1BafCiPBcP2pkNlKMxpJngcjFatPaDpmT?usp=sharing)
 - [Functional requirements](https://drive.google.com/drive/folders/1FIQQoI2b8YXkaUdo4ZbP7EExTzk5SVMv?usp=sharing)
+- Figma
+  - [Creating components training](https://www.figma.com/file/UUnYeKOXHEo99bgtqZViqk/playlist_practicing-components?t=klg6BfkFkYX6ww30-1)
+  - [First app project](https://www.figma.com/file/vnIdfv2Mgb5VE9xMBIyRw8/apka-adoracyjna?t=klg6BfkFkYX6ww30-1)
 
 
 ## Certificates
 - ISTQB Foundation Level
-
-
-### Blogs that I read
-- [Guru99](https://www.guru99.com/)
-- [testelka](https://testelka.pl/)
-- [testerzy.pl](https://testerzy.pl/)
