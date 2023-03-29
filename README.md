@@ -1,5 +1,7 @@
 ## About me
-My name is Karolina Koźlak. I am master of management in public and non-governmental sector who decided to change a career path. I am freshly graduated Software Tester, gaining first experiences in testing world. My goal is to develop testing knowlage and technical skills. On this site I would like to share my experience from personal studies and researches.
+I am an aspiring Software Tester with ISTQB Foundation Level certificate. I have completed the "Software Tester'' training and for last two years
+gained testing skills by working for an international client's financial application. I can thoroughly search for bugs, write test cases and create User Stories. I am searching for opportunities to gain more advanced professional experience in testing. My career interests are linked to UX/UI and accessibility testing as it is important for me to include all social groups into technology. I can co-operate effectively in project communities as I have been working in both Polish and multicultural teams.
+On this site I would like to share my experience from personal studies and researches.
 
 
 ## Tools
