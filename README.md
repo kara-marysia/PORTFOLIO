@@ -9,6 +9,7 @@ On this site I would like to share my experience from personal studies and resea
 - Databases: ***MySQL***
 - Operating systems: ***Windows***
 - Version control: ***GIT***
+- Design: ***Figma***
 
 
 ## My testing documentation
